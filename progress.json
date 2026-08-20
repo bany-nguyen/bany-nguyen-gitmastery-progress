@@ -221,5 +221,14 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787204663.261477,
+    "completed_at": 1787204667.077545,
+    "comments": [
+      "Missing lightweight tag \"first-pilot\"."
+    ],
+    "status": "Incomplete"
   }
 ]
