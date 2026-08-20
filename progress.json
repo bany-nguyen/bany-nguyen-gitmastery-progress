@@ -230,5 +230,14 @@
       "Missing lightweight tag \"first-pilot\"."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787204714.325533,
+    "completed_at": 1787204717.245799,
+    "comments": [
+      "\"v1.0\" should point to the commit that updates March duty roster."
+    ],
+    "status": "Incomplete"
   }
 ]
